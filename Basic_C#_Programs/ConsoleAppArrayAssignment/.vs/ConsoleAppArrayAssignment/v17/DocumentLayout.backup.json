@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ConsoleAppArrayAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C43DF266-4167-4ED4-B73C-82557CDCC203}|ConsoleAppArrayAssignment\\ConsoleAppArrayAssignment.csproj|c:\\users\\rmutu\\onedrive\\desktop\\basic_c#_programs\\consoleapparrayassignment\\consoleapparrayassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43DF266-4167-4ED4-B73C-82557CDCC203}|ConsoleAppArrayAssignment\\ConsoleAppArrayAssignment.csproj|solutionrelative:consoleapparrayassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ConsoleAppArrayAssignment\\ConsoleAppArrayAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppArrayAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ConsoleAppArrayAssignment\\ConsoleAppArrayAssignment\\Program.cs*",
+              "RelativeToolTip": "ConsoleAppArrayAssignment\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:52:01.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
