@@ -1,0 +1,7 @@
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs 2019\ConsoleAppAssignment6Parts\ConsoleAppAssignment6Parts\bin\Debug\ConsoleAppAssignment6Parts.exe.config
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs 2019\ConsoleAppAssignment6Parts\ConsoleAppAssignment6Parts\bin\Debug\ConsoleAppAssignment6Parts.exe
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs 2019\ConsoleAppAssignment6Parts\ConsoleAppAssignment6Parts\bin\Debug\ConsoleAppAssignment6Parts.pdb
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs 2019\ConsoleAppAssignment6Parts\ConsoleAppAssignment6Parts\obj\Debug\ConsoleAppAssignment6Parts.csproj.AssemblyReference.cache
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs 2019\ConsoleAppAssignment6Parts\ConsoleAppAssignment6Parts\obj\Debug\ConsoleAppAssignment6Parts.csproj.CoreCompileInputs.cache
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs 2019\ConsoleAppAssignment6Parts\ConsoleAppAssignment6Parts\obj\Debug\ConsoleAppAssignment6Parts.exe
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs 2019\ConsoleAppAssignment6Parts\ConsoleAppAssignment6Parts\obj\Debug\ConsoleAppAssignment6Parts.pdb
