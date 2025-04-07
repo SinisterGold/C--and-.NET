@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34283F5E-CF68-48D0-B7B5-8525DBF78ACB}|ClassesAndObject (TwentyOne Game)\\ClassesAndObject (TwentyOne Game).csproj|c:\\users\\rmutu\\onedrive\\desktop\\basic_c#_programs\\classesandobject (twentyone game)\\classesandobject (twentyone game)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34283F5E-CF68-48D0-B7B5-8525DBF78ACB}|ClassesAndObject (TwentyOne Game)\\ClassesAndObject (TwentyOne Game).csproj|solutionrelative:classesandobject (twentyone game)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34283F5E-CF68-48D0-B7B5-8525DBF78ACB}|ClassesAndObject (TwentyOne Game)\\ClassesAndObject (TwentyOne Game).csproj|C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\classesandobject (twentyone game)\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34283F5E-CF68-48D0-B7B5-8525DBF78ACB}|ClassesAndObject (TwentyOne Game)\\ClassesAndObject (TwentyOne Game).csproj|solutionrelative:classesandobject (twentyone game)\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34283F5E-CF68-48D0-B7B5-8525DBF78ACB}|ClassesAndObject (TwentyOne Game)\\ClassesAndObject (TwentyOne Game).csproj|C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\classesandobject (twentyone game)\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34283F5E-CF68-48D0-B7B5-8525DBF78ACB}|ClassesAndObject (TwentyOne Game)\\ClassesAndObject (TwentyOne Game).csproj|solutionrelative:classesandobject (twentyone game)\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\ClassesAndObject (TwentyOne Game)\\Deck.cs",
+              "RelativeDocumentMoniker": "ClassesAndObject (TwentyOne Game)\\Deck.cs",
+              "ToolTip": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\ClassesAndObject (TwentyOne Game)\\Deck.cs",
+              "RelativeToolTip": "ClassesAndObject (TwentyOne Game)\\Deck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:17:25.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\ClassesAndObject (TwentyOne Game)\\Card.cs",
+              "RelativeDocumentMoniker": "ClassesAndObject (TwentyOne Game)\\Card.cs",
+              "ToolTip": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\ClassesAndObject (TwentyOne Game)\\Card.cs",
+              "RelativeToolTip": "ClassesAndObject (TwentyOne Game)\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:01:22.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\ClassesAndObject (TwentyOne Game)\\Program.cs",
+              "RelativeDocumentMoniker": "ClassesAndObject (TwentyOne Game)\\Program.cs",
+              "ToolTip": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\ClassesAndObject (TwentyOne Game)\\Program.cs",
+              "RelativeToolTip": "ClassesAndObject (TwentyOne Game)\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:55:21.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

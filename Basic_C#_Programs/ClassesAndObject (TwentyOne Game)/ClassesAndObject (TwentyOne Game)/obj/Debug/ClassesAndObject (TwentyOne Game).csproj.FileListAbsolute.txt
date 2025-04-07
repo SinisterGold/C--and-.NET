@@ -1,0 +1,7 @@
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\bin\Debug\ClassesAndObject (TwentyOne Game).exe.config
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\bin\Debug\ClassesAndObject (TwentyOne Game).exe
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\bin\Debug\ClassesAndObject (TwentyOne Game).pdb
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\obj\Debug\ClassesAndObject (TwentyOne Game).csproj.AssemblyReference.cache
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\obj\Debug\ClassesAndObject (TwentyOne Game).csproj.CoreCompileInputs.cache
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\obj\Debug\ClassesAndObject (TwentyOne Game).exe
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\obj\Debug\ClassesAndObject (TwentyOne Game).pdb

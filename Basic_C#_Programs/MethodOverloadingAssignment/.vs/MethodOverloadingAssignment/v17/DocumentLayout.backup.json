@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\MethodOverloadingAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEB088F-9BCF-4BAF-A230-BC6914193966}|MethodOverloadingAssignment\\MethodOverloadingAssignment.csproj|c:\\users\\rmutu\\onedrive\\desktop\\basic_c#_programs\\methodoverloadingassignment\\methodoverloadingassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEB088F-9BCF-4BAF-A230-BC6914193966}|MethodOverloadingAssignment\\MethodOverloadingAssignment.csproj|solutionrelative:methodoverloadingassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEB088F-9BCF-4BAF-A230-BC6914193966}|MethodOverloadingAssignment\\MethodOverloadingAssignment.csproj|C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\MethodOverloadingAssignment\\methodoverloadingassignment\\mathmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEB088F-9BCF-4BAF-A230-BC6914193966}|MethodOverloadingAssignment\\MethodOverloadingAssignment.csproj|solutionrelative:methodoverloadingassignment\\mathmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathMethods.cs",
+              "DocumentMoniker": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\MethodOverloadingAssignment\\MethodOverloadingAssignment\\MathMethods.cs",
+              "RelativeDocumentMoniker": "MethodOverloadingAssignment\\MathMethods.cs",
+              "ToolTip": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\MethodOverloadingAssignment\\MethodOverloadingAssignment\\MathMethods.cs",
+              "RelativeToolTip": "MethodOverloadingAssignment\\MathMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:50:06.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\MethodOverloadingAssignment\\MethodOverloadingAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "MethodOverloadingAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\MethodOverloadingAssignment\\MethodOverloadingAssignment\\Program.cs",
+              "RelativeToolTip": "MethodOverloadingAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:48:59.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
