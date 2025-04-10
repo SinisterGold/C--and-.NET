@@ -8,12 +8,7 @@ namespace ClassesAndObject__TwentyOne_Game
 {
     public class Card
     {
-        public Card()
-        {
-            //Suit = "Spades"; //defualt values given to the object card when it is made
-           //Face = "Two";
-        }
-        public string Suit { get; set; }
+        public string Suit { get; set; } //properties
         public string Face { get; set; }
     }
 }

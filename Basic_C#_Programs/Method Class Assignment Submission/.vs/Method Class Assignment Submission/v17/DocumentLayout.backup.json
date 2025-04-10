@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\Method Class Assignment Submission\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8A37023-F1E6-47A3-AEA5-E4699540D612}|Method Class Assignment Submission\\Method Class Assignment Submission.csproj|C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\Method Class Assignment Submission\\method class assignment submission\\mathmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8A37023-F1E6-47A3-AEA5-E4699540D612}|Method Class Assignment Submission\\Method Class Assignment Submission.csproj|c:\\users\\rmutu\\onedrive\\desktop\\basic_c#_programs\\method class assignment submission\\method class assignment submission\\mathmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8A37023-F1E6-47A3-AEA5-E4699540D612}|Method Class Assignment Submission\\Method Class Assignment Submission.csproj|solutionrelative:method class assignment submission\\mathmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8A37023-F1E6-47A3-AEA5-E4699540D612}|Method Class Assignment Submission\\Method Class Assignment Submission.csproj|c:\\users\\rmutu\\onedrive\\desktop\\basic_c#_programs\\method class assignment submission\\method class assignment submission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8A37023-F1E6-47A3-AEA5-E4699540D612}|Method Class Assignment Submission\\Method Class Assignment Submission.csproj|C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\Method Class Assignment Submission\\method class assignment submission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8A37023-F1E6-47A3-AEA5-E4699540D612}|Method Class Assignment Submission\\Method Class Assignment Submission.csproj|solutionrelative:method class assignment submission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -43,8 +43,7 @@
               "RelativeToolTip": "Method Class Assignment Submission\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T20:39:54.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T20:39:54.81Z"
             }
           ]
         }
