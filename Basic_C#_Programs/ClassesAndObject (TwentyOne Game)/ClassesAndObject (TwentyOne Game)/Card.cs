@@ -6,9 +6,32 @@ using System.Threading.Tasks;
 
 namespace ClassesAndObject__TwentyOne_Game
 {
-    public class Card
+    public struct Card
     {
-        public string Suit { get; set; } //properties
-        public string Face { get; set; }
+        public Suit Suit { get; set; } //properties
+        public Face Face { get; set; }
+    }
+    public enum Suit //these are enums meaning suit and face can only have these specific values
+    {
+        Clubs,
+        Diamobds,
+        Hearts,
+        Spades
+    }
+    public enum Face
+    {
+        Two,
+        Three,
+        Four,
+        Five,
+        Six,
+        Seven,
+        Eight,
+        Nine,
+        Ten,
+        Jack,
+        Queen,
+        King,
+        Ace
     }
 }
