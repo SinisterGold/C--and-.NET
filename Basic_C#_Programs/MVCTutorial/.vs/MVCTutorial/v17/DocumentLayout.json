@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\MVCTutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC4DF62-626E-4971-BE5F-DDCB651AFAF7}|MVCTutorial\\MVCTutorial.csproj|c:\\users\\rmutu\\onedrive\\desktop\\basic_c#_programs\\mvctutorial\\mvctutorial\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC4DF62-626E-4971-BE5F-DDCB651AFAF7}|MVCTutorial\\MVCTutorial.csproj|solutionrelative:mvctutorial\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC4DF62-626E-4971-BE5F-DDCB651AFAF7}|MVCTutorial\\MVCTutorial.csproj|c:\\users\\rmutu\\onedrive\\desktop\\basic_c#_programs\\mvctutorial\\mvctutorial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DC4DF62-626E-4971-BE5F-DDCB651AFAF7}|MVCTutorial\\MVCTutorial.csproj|solutionrelative:mvctutorial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC4DF62-626E-4971-BE5F-DDCB651AFAF7}|MVCTutorial\\MVCTutorial.csproj|c:\\users\\rmutu\\onedrive\\desktop\\basic_c#_programs\\mvctutorial\\mvctutorial\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC4DF62-626E-4971-BE5F-DDCB651AFAF7}|MVCTutorial\\MVCTutorial.csproj|solutionrelative:mvctutorial\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC4DF62-626E-4971-BE5F-DDCB651AFAF7}|MVCTutorial\\MVCTutorial.csproj|c:\\users\\rmutu\\onedrive\\desktop\\basic_c#_programs\\mvctutorial\\mvctutorial\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DC4DF62-626E-4971-BE5F-DDCB651AFAF7}|MVCTutorial\\MVCTutorial.csproj|solutionrelative:mvctutorial\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\MVCTutorial\\MVCTutorial\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MVCTutorial\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\MVCTutorial\\MVCTutorial\\Models\\User.cs",
+              "RelativeToolTip": "MVCTutorial\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:34:08.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\MVCTutorial\\MVCTutorial\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCTutorial\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\MVCTutorial\\MVCTutorial\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCTutorial\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T03:24:34.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\MVCTutorial\\MVCTutorial\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "MVCTutorial\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\MVCTutorial\\MVCTutorial\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "MVCTutorial\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T03:24:30.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\MVCTutorial\\MVCTutorial\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCTutorial\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\MVCTutorial\\MVCTutorial\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCTutorial\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:24:25.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

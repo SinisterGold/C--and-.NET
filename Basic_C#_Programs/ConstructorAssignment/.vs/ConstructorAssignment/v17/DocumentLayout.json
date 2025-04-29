@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ConstructorAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE6DEDA-071A-41E0-B1D3-FBFCC6BBD540}|ConstructorAssignment\\ConstructorAssignment.csproj|c:\\users\\rmutu\\onedrive\\desktop\\basic_c#_programs\\constructorassignment\\constructorassignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE6DEDA-071A-41E0-B1D3-FBFCC6BBD540}|ConstructorAssignment\\ConstructorAssignment.csproj|solutionrelative:constructorassignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE6DEDA-071A-41E0-B1D3-FBFCC6BBD540}|ConstructorAssignment\\ConstructorAssignment.csproj|c:\\users\\rmutu\\onedrive\\desktop\\basic_c#_programs\\constructorassignment\\constructorassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE6DEDA-071A-41E0-B1D3-FBFCC6BBD540}|ConstructorAssignment\\ConstructorAssignment.csproj|solutionrelative:constructorassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ConstructorAssignment\\ConstructorAssignment\\Person.cs",
+              "RelativeDocumentMoniker": "ConstructorAssignment\\Person.cs",
+              "ToolTip": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ConstructorAssignment\\ConstructorAssignment\\Person.cs",
+              "RelativeToolTip": "ConstructorAssignment\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T09:54:10.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ConstructorAssignment\\ConstructorAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "ConstructorAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ConstructorAssignment\\ConstructorAssignment\\Program.cs",
+              "RelativeToolTip": "ConstructorAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T09:53:26.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

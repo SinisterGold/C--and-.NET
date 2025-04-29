@@ -1,0 +1,7 @@
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\LogAssignment\LogAssignment\bin\Debug\LogAssignment.exe.config
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\LogAssignment\LogAssignment\bin\Debug\LogAssignment.exe
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\LogAssignment\LogAssignment\bin\Debug\LogAssignment.pdb
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\LogAssignment\LogAssignment\obj\Debug\LogAssignment.csproj.AssemblyReference.cache
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\LogAssignment\LogAssignment\obj\Debug\LogAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\LogAssignment\LogAssignment\obj\Debug\LogAssignment.exe
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\LogAssignment\LogAssignment\obj\Debug\LogAssignment.pdb
