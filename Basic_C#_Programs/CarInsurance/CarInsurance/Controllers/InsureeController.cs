@@ -95,13 +95,15 @@ namespace CarInsurance.Controllers
             {
                 var insurees = db.Insurees; //grabing all data from the table
 
-                var quoteList = new List<Insuree>(); //creating an empty quote list that we pass to the view to display later
+                var quoteLists = new List<Insuree>(); //creating an empty quote list that we pass to the view to display later
 
                 foreach (var insuree in insurees) //iterating threw each entry in out database
                 {
                     decimal quote = 50; //Base Price
 
                     var age = DateTime.Today.Year - insuree.DateOfBirth.Year; //Age calculation using DOB
+
+                    var quoteList = new Insuree();
 
                     //Age Logic
                     if (age <= 18)
@@ -153,11 +155,15 @@ namespace CarInsurance.Controllers
                     }
 
                     //Saving quote
-                    insuree.Quote = quote; //non of the updatign or pass stuff to view makes sense to me
-                    
+                    insuree.Quote = quote; //non of the updatign or pass stuff to view makes sense to me 
+
+                    quoteLists.Add(quoteList);
+                     
                 }
+                return View(quoteLists); //not confident in this at all  
+
+
             }
-            return View(insuree); //not confident in this at all
 
         }
 
