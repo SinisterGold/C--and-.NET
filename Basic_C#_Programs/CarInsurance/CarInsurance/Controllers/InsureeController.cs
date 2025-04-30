@@ -89,6 +89,11 @@ namespace CarInsurance.Controllers
             return View(insuree);
         }
 
+        public ActionResult Admin()
+        {
+            List<Insuree> insurees = db.Insurees.ToList();
+            return View(insurees);
+        }
         public ActionResult CalculateQuote()
         {
             using (InsuranceEntities db = new InsuranceEntities()) //opening connection
@@ -103,7 +108,6 @@ namespace CarInsurance.Controllers
 
                     var age = DateTime.Today.Year - insuree.DateOfBirth.Year; //Age calculation using DOB
 
-                    var quoteList = new Insuree();
 
                     //Age Logic
                     if (age <= 18)
@@ -156,13 +160,12 @@ namespace CarInsurance.Controllers
 
                     //Saving quote
                     insuree.Quote = quote; //non of the updatign or pass stuff to view makes sense to me 
-
-                    quoteLists.Add(quoteList);
+                    db.Entry(insuree).State = EntityState.Modified;
+                    quoteLists.Add(insuree);
                      
                 }
+                db.SaveChanges();
                 return View(quoteLists); //not confident in this at all  
-
-
             }
 
         }
