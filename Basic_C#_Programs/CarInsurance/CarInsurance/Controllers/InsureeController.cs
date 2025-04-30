@@ -50,6 +50,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = CalculateQuote(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -82,6 +83,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = CalculateQuote(insuree);
                 db.Entry(insuree).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -94,17 +96,12 @@ namespace CarInsurance.Controllers
             List<Insuree> insurees = db.Insurees.ToList();
             return View(insurees);
         }
-        public ActionResult CalculateQuote()
+        public decimal CalculateQuote(Insuree insuree)
         {
-            using (InsuranceEntities db = new InsuranceEntities()) //opening connection
-            {
-                var insurees = db.Insurees; //grabing all data from the table
-
-                var quoteLists = new List<Insuree>(); //creating an empty quote list that we pass to the view to display later
-
-                foreach (var insuree in insurees) //iterating threw each entry in out database
-                {
-                    decimal quote = 50; //Base Price
+          
+                
+                
+                    insuree.Quote = 50.0m; //Base Price
 
                     var age = DateTime.Today.Year - insuree.DateOfBirth.Year; //Age calculation using DOB
 
@@ -112,61 +109,54 @@ namespace CarInsurance.Controllers
                     //Age Logic
                     if (age <= 18)
                     {
-                        quote += 100;
+                        insuree.Quote += 100;
                     }
                     else if (age >= 19 && age <= 25)
                     {
-                        quote += 50;
+                        insuree.Quote += 50;
                     }
                     else //this is for 26 and older
                     {
-                        quote += 25;
+                        insuree.Quote += 25;
                     }
 
                     //Car Year Logic
                     if (insuree.CarYear < 2000)
                     {
-                        quote += 25;
+                        insuree.Quote += 25;
                     }
                     else if (insuree.CarYear > 2015) //else if is used here since not every possiablity is covered for example if a can is made from 2001 to 2014 non of the car logic would add anything
                     {
-                        quote += 25;
+                        insuree.Quote += 25;
                     }
 
                     //Car Make Logic
                     if (insuree.CarMake.ToLower() == "porsche")
                     {
-                        quote += 25; //amount added for any porsche
+                        insuree.Quote += 25; //amount added for any porsche
                         if (insuree.CarModel.ToLower() == "911 carrera" || insuree.CarModel.ToLower() == "carrera 911")
                         {
-                            quote += 25; //additional charge for 911 Carrera
+                    insuree.Quote += 25; //additional charge for 911 Carrera
                         }
                     }
 
                     //Speeding Ticket Logic
-                    quote += insuree.SpeedingTickets * 10;
+                    insuree.Quote += insuree.SpeedingTickets * 10;
 
                     //DUI logic
                     if (insuree.DUI)
                     {
-                        quote *= 1.25m; //25% increase
+                        insuree.Quote *= 1.25m; //25% increase
                     }
 
                     //Coverage Logic
                     if (insuree.CoverageType)
                     {
-                        quote *= 1.50m; //50% increase if box is ticked
+                        insuree.Quote *= 1.50m; //50% increase if box is ticked
                     }
 
-                    //Saving quote
-                    insuree.Quote = quote; //non of the updatign or pass stuff to view makes sense to me 
-                    db.Entry(insuree).State = EntityState.Modified;
-                    quoteLists.Add(insuree);
-                     
-                }
-                db.SaveChanges();
-                return View(quoteLists); //not confident in this at all  
-            }
+                    
+                    return insuree.Quote; //not confident in this at all  
 
         }
 
