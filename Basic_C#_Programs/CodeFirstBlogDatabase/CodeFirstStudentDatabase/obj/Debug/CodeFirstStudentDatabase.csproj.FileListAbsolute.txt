@@ -1,0 +1,12 @@
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\CodeFirstStudentDatabase\CodeFirstStudentDatabase\bin\Debug\CodeFirstStudentDatabase.exe.config
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\CodeFirstStudentDatabase\CodeFirstStudentDatabase\bin\Debug\CodeFirstStudentDatabase.exe
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\CodeFirstStudentDatabase\CodeFirstStudentDatabase\bin\Debug\CodeFirstStudentDatabase.pdb
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\CodeFirstStudentDatabase\CodeFirstStudentDatabase\bin\Debug\EntityFramework.dll
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\CodeFirstStudentDatabase\CodeFirstStudentDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\CodeFirstStudentDatabase\CodeFirstStudentDatabase\bin\Debug\EntityFramework.xml
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\CodeFirstStudentDatabase\CodeFirstStudentDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\CodeFirstStudentDatabase\CodeFirstStudentDatabase\obj\Debug\CodeFirstStudentDatabase.csproj.AssemblyReference.cache
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\CodeFirstStudentDatabase\CodeFirstStudentDatabase\obj\Debug\CodeFirstStudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\CodeFirstStudentDatabase\CodeFirstStudentDatabase\obj\Debug\CodeFirs.3EA93188.Up2Date
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\CodeFirstStudentDatabase\CodeFirstStudentDatabase\obj\Debug\CodeFirstStudentDatabase.exe
+C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\CodeFirstStudentDatabase\CodeFirstStudentDatabase\obj\Debug\CodeFirstStudentDatabase.pdb

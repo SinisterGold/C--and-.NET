@@ -3,20 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{34283F5E-CF68-48D0-B7B5-8525DBF78ACB}|ClassesAndObject (TwentyOne Game)\\TwentyOne.csproj|C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\classesandobject (twentyone game)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34283F5E-CF68-48D0-B7B5-8525DBF78ACB}|ClassesAndObject (TwentyOne Game)\\TwentyOne.csproj|solutionrelative:classesandobject (twentyone game)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Casino||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDF1DDF-9E23-483A-B6E5-851E15A11460}|Casino\\Casino.csproj|c:\\users\\rmutu\\onedrive\\desktop\\basic_c#_programs\\classesandobject (twentyone game)\\casino\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDF1DDF-9E23-483A-B6E5-851E15A11460}|Casino\\Casino.csproj|solutionrelative:casino\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDF1DDF-9E23-483A-B6E5-851E15A11460}|Casino\\Casino.csproj|C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\casino\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDF1DDF-9E23-483A-B6E5-851E15A11460}|Casino\\Casino.csproj|solutionrelative:casino\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4DDF1DDF-9E23-483A-B6E5-851E15A11460}|Casino\\Casino.csproj|C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DDF1DDF-9E23-483A-B6E5-851E15A11460}|Casino\\Casino.csproj|solutionrelative:casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34283F5E-CF68-48D0-B7B5-8525DBF78ACB}|ClassesAndObject (TwentyOne Game)\\TwentyOne.csproj|c:\\users\\rmutu\\onedrive\\desktop\\basic_c#_programs\\classesandobject (twentyone game)\\classesandobject (twentyone game)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34283F5E-CF68-48D0-B7B5-8525DBF78ACB}|ClassesAndObject (TwentyOne Game)\\TwentyOne.csproj|solutionrelative:classesandobject (twentyone game)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DDF1DDF-9E23-483A-B6E5-851E15A11460}|Casino\\Casino.csproj|C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\casino\\fraudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDF1DDF-9E23-483A-B6E5-851E15A11460}|Casino\\Casino.csproj|solutionrelative:casino\\fraudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34283F5E-CF68-48D0-B7B5-8525DBF78ACB}|ClassesAndObject (TwentyOne Game)\\TwentyOne.csproj|C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\classesandobject (twentyone game)\\exceptionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34283F5E-CF68-48D0-B7B5-8525DBF78ACB}|ClassesAndObject (TwentyOne Game)\\TwentyOne.csproj|solutionrelative:classesandobject (twentyone game)\\exceptionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DDF1DDF-9E23-483A-B6E5-851E15A11460}|Casino\\Casino.csproj|C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\casino\\fraudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DDF1DDF-9E23-483A-B6E5-851E15A11460}|Casino\\Casino.csproj|solutionrelative:casino\\fraudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DDF1DDF-9E23-483A-B6E5-851E15A11460}|Casino\\Casino.csproj|C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\casino\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDF1DDF-9E23-483A-B6E5-851E15A11460}|Casino\\Casino.csproj|solutionrelative:casino\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDF1DDF-9E23-483A-B6E5-851E15A11460}|Casino\\Casino.csproj|c:\\users\\rmutu\\onedrive\\desktop\\basic_c#_programs\\classesandobject (twentyone game)\\casino\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +44,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +52,57 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Casino",
+              "DocumentMoniker": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\Casino\\Casino.csproj",
+              "RelativeDocumentMoniker": "Casino\\Casino.csproj",
+              "ToolTip": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\Casino\\Casino.csproj",
+              "RelativeToolTip": "Casino\\Casino.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-07T00:52:03.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\Casino\\Game.cs",
+              "RelativeDocumentMoniker": "Casino\\Game.cs",
+              "ToolTip": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\Casino\\Game.cs",
+              "RelativeToolTip": "Casino\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T01:31:00.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dealer.cs",
+              "DocumentMoniker": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\Casino\\Dealer.cs",
+              "RelativeDocumentMoniker": "Casino\\Dealer.cs",
+              "ToolTip": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\Casino\\Dealer.cs",
+              "RelativeToolTip": "Casino\\Dealer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T01:30:05.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\Casino\\Player.cs",
+              "RelativeDocumentMoniker": "Casino\\Player.cs",
+              "ToolTip": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\Casino\\Player.cs",
+              "RelativeToolTip": "Casino\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T01:29:03.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ExceptionEntity.cs",
               "DocumentMoniker": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\ClassesAndObject (TwentyOne Game)\\ExceptionEntity.cs",
               "RelativeDocumentMoniker": "ClassesAndObject (TwentyOne Game)\\ExceptionEntity.cs",
@@ -46,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FraudException.cs",
               "DocumentMoniker": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\Casino\\FraudException.cs",
               "RelativeDocumentMoniker": "Casino\\FraudException.cs",
@@ -58,26 +126,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "TwentyOneGame.cs",
               "DocumentMoniker": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\Casino\\TwentyOneGame.cs",
               "RelativeDocumentMoniker": "Casino\\TwentyOneGame.cs",
               "ToolTip": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\Casino\\TwentyOneGame.cs",
               "RelativeToolTip": "Casino\\TwentyOneGame.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowCUAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T10:30:21.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T10:30:21.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\ClassesAndObject (TwentyOne Game)\\Program.cs",
               "RelativeDocumentMoniker": "ClassesAndObject (TwentyOne Game)\\Program.cs",
               "ToolTip": "C:\\Users\\rmutu\\OneDrive\\Desktop\\Basic_C#_Programs\\ClassesAndObject (TwentyOne Game)\\ClassesAndObject (TwentyOne Game)\\Program.cs",
               "RelativeToolTip": "ClassesAndObject (TwentyOne Game)\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwEIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T09:29:38.23Z",
               "EditorCaption": ""
