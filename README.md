@@ -1,6 +1,6 @@
 # C# Projects and Notes
 
-These are some small projects and notes i made using C# and .NET Framework
+These are some small projects and notes I made using C# and .NET Framework
 
 ## Projects:
 
