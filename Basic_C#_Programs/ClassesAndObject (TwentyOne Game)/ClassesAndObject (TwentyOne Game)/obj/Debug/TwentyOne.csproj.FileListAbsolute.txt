@@ -8,3 +8,14 @@ C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\ClassesAndObject (TwentyOne Ga
 C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\obj\Debug\TwentyOne.csproj.Up2Date
 C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\obj\Debug\ClassesAndObject (TwentyOne Game).exe
 C:\Users\rmutu\OneDrive\Desktop\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\obj\Debug\ClassesAndObject (TwentyOne Game).pdb
+C:\Users\rmutu\OneDrive\Documents\GitHub\C--and-.NET\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\bin\Debug\ClassesAndObject (TwentyOne Game).exe.config
+C:\Users\rmutu\OneDrive\Documents\GitHub\C--and-.NET\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\bin\Debug\ClassesAndObject (TwentyOne Game).exe
+C:\Users\rmutu\OneDrive\Documents\GitHub\C--and-.NET\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\bin\Debug\ClassesAndObject (TwentyOne Game).pdb
+C:\Users\rmutu\OneDrive\Documents\GitHub\C--and-.NET\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\bin\Debug\Casino.dll
+C:\Users\rmutu\OneDrive\Documents\GitHub\C--and-.NET\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\bin\Debug\Casino.pdb
+C:\Users\rmutu\OneDrive\Documents\GitHub\C--and-.NET\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\rmutu\OneDrive\Documents\GitHub\C--and-.NET\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\obj\Debug\ClassesAndObject (TwentyOne Game).exe.config
+C:\Users\rmutu\OneDrive\Documents\GitHub\C--and-.NET\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\rmutu\OneDrive\Documents\GitHub\C--and-.NET\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\obj\Debug\TwentyOne.csproj.Up2Date
+C:\Users\rmutu\OneDrive\Documents\GitHub\C--and-.NET\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\obj\Debug\ClassesAndObject (TwentyOne Game).exe
+C:\Users\rmutu\OneDrive\Documents\GitHub\C--and-.NET\Basic_C#_Programs\ClassesAndObject (TwentyOne Game)\ClassesAndObject (TwentyOne Game)\obj\Debug\ClassesAndObject (TwentyOne Game).pdb

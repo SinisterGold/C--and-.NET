@@ -57,7 +57,7 @@ using System.Collections.Generic;
         //a list containing names of friends
         List<string> friends = new List<string>() { "Luke", "Travis", "Mark", "Steven", "Matthew" };
 
-        //primpt for the user to input a guess and then save that guess as a string
+        //print for the user to input a guess and then save that guess as a string
         Console.WriteLine("Try to guess the name of one of my friends:");
         string guess = Console.ReadLine();
 
